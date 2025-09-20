@@ -1,0 +1,5 @@
+pytest
+flake8
+python-dotenv
+SQLAlchemy
+psycopg2-binary
